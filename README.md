@@ -10,7 +10,7 @@
 
 ## 🚀 <span style="color:#FF5733;">About Me</span>
 
-Passionate and innovative software engineer with [X years] of experience building robust and scalable applications. Proficient in multiple programming languages and frameworks. Avid learner committed to staying current with the latest technologies.
+Passionate and innovative guy of experience building robust and scalable applications. Proficient in multiple programming languages and frameworks. Avid learner committed to staying current with the latest technologies.
 
 ---
 
