@@ -1,8 +1,8 @@
-# [Your Name]
+# [Iflal Ismalebbe]
 [Undergraduate | ML Explorer | Tech Enthusiast]
 
 📍 [Colombo, Sri Lanka]  
-📧 [Your Email]  
+📧 [iflalm5@gmail.com]  
 🔗 [LinkedIn](https://www.linkedin.com/in/iflalismalebbe) | [Twitter](https://twitter.com/Iflal) | [Portfolio](https://yourportfolio.com)
 
 ---
