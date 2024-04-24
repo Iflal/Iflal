@@ -1,20 +1,20 @@
-# Iflal Ismalebbe
-Undergraduate | ML Explorer | Tech Enthusiast
+# <p align="center">Iflal Ismalebbe</p>
+<p align="center">Undergraduate | ML Explorer | Tech Enthusiast</p>
 
-📍 Colombo, Sri Lanka
+<p align="center">📍 Colombo, Sri Lanka</p>
 
-📧 iflalm5@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/iflalismalebbe) | [Twitter](https://twitter.com/Iflal) | [Portfolio](https://yourportfolio.com)
+<p align="center">📧 <a href="mailto:iflalm5@gmail.com">iflalm5@gmail.com</a>  
+🔗 <a href="https://www.linkedin.com/in/iflalismalebbe">LinkedIn</a> | <a href="https://twitter.com/Iflal">Twitter</a> | <a href="https://yourportfolio.com">Portfolio</a></p>
 
 ---
 
-## 🚀 About Me
+## 🚀 <span style="color:#FF5733;">About Me</span>
 
 Passionate and innovative software engineer with [X years] of experience building robust and scalable applications. Proficient in multiple programming languages and frameworks. Avid learner committed to staying current with the latest technologies.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ <span style="color:#33FF57;">Skills</span>
 
 - **Languages:** Python, JavaScript, Java, C++
 - **Frameworks/Libraries:** React, Node.js, Django, Spring Boot
@@ -24,7 +24,7 @@ Passionate and innovative software engineer with [X years] of experience buildin
 
 ---
 
-## 📚 Education
+## 📚 <span style="color:#3357FF;">Education</span>
 
 **[BSc][In][Information System]**  
 [University of Colombo School of Computing] - [2024]
@@ -34,7 +34,7 @@ Passionate and innovative software engineer with [X years] of experience buildin
 
 ---
 
-## 💼 Experience
+## 💼 <span style="color:#FF5733;">Experience</span>
 
 ### [Job Title] at [Company Name] - [Dates]
 - Developed and maintained [specific project or feature].
@@ -48,7 +48,7 @@ Passionate and innovative software engineer with [X years] of experience buildin
 
 ---
 
-## 📄 Projects
+## 📄 <span style="color:#33FF57;">Projects</span>
 
 ### [Project Name](https://github.com/yourusername/projectname)
 **Description:** Brief description of the project, technologies used, and your role.
@@ -58,19 +58,19 @@ Passionate and innovative software engineer with [X years] of experience buildin
 
 ---
 
-## 📝 Blog Posts
+## 📝 <span style="color:#3357FF;">Blog Posts</span>
 
 - [Title of Blog Post](https://yourblog.com/post)
 - [Another Blog Post](https://yourblog.com/post)
 
 ---
 
-## 📫 Contact Me
+## 📫 <span style="color:#FF5733;">Contact Me</span>
 
-📧 [Email](iflalm5@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/iflalismalebbe)  
-🔗 [Twitter](https://twitter.com/yourusername)
+📧 <a href="mailto:iflalm5@gmail.com">Email</a>  
+🔗 <a href="https://www.linkedin.com/in/iflalismalebbe">LinkedIn</a>  
+🔗 <a href="https://twitter.com/Iflal">Twitter</a>
 
 ---
 
-Feel free to reach out if you're interested in collaborating on a project or just want to connect!
+<p align="center">Feel free to reach out if you're interested in collaborating on a project or just want to connect!</p>
