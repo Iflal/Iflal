@@ -1,8 +1,5 @@
 <!-- Add your name and profile picture -->
 <h1 align="center">Iflal Ismalebbe</h1>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/121480048?v=4" alt="Profile Picture">
-</p>
 
 <p align="center">Undergraduate | ML Explorer | Tech Enthusiast</p>
 
