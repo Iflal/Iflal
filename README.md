@@ -19,58 +19,6 @@
 Pursuing a degree in Information Systems with a keen interest in AI and machine learning. Passionate about exploring cutting-edge technologies and excited to contribute to innovative projects. Always eager to connect, collaborate, and push the boundaries of tech.
 ---
 
-## 🛠️ <span style="color:#33FF57;">Skills</span>
-
-- **Languages:** 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- **Frameworks/Libraries:** 
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-- **Databases:** 
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
- 
-- **Tools:** 
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- **Others:** Agile Methodologies, Test-Driven Development, CI/CD
-
----
-
-## 📚 <span style="color:#3357FF;">Education</span>
-
-**[BSc in Information System](https://your-university-link)**  
-University of Colombo School of Computing - 2024
-
-<!-- Add more education details if needed -->
-
----
-
-## 💼 <span style="color:#FF5733;">Experience</span>
-
-### [Job Title] at [Company Name] - [Dates]
-- Developed and maintained [specific project or feature].
-- Collaborated with cross-functional teams to deliver high-quality software solutions.
-- Implemented [technology/tool], resulting in [positive outcome].
-
-### [Job Title] at [Company Name] - [Dates]
-- Led a team of [number] developers in building [project or system].
-- Optimized [process or system], improving [metric] by [percentage].
-- Conducted code reviews and mentored junior developers.
-
-<!-- Add more experience details if needed -->
-
----
-
-<!-- Add more projects if needed -->
-
----
-
-## 📝 <span style="color:#3357FF;">Blog Posts</span>
-
-- [Title of Blog Post](https://yourblog.com/post)
 
 <!-- Add more blog posts if needed -->
 
