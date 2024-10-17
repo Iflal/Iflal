@@ -21,26 +21,26 @@
 
 ## 🌐 Socials:
 <div align="center">
-  <a href="mailto:iflalm5@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo"  />
+  <a href="mailto:iflalm5@gmail.com" target="_blank" style="text-decoration:none; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/iflalismalebbe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/iflalismalebbe/" target="_blank" style="text-decoration:none; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://medium.com/@Iflal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="40" alt="medium logo"  />
+  <a href="https://medium.com/@Iflal" target="_blank" style="text-decoration:none; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="40" alt="medium logo" />
   </a>
-  <a href="https://stackoverflow.com/users/23275534/iflal-ismalebbe" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="70" height="40" alt="stackoverflow logo"  />
+  <a href="https://stackoverflow.com/users/23275534/iflal-ismalebbe" target="_blank" style="text-decoration:none; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="70" height="40" alt="stackoverflow logo" />
   </a>
-  <a href="https://facebook.com/profile.php?id=100009644041839" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo"  />
+  <a href="https://facebook.com/profile.php?id=100009644041839" target="_blank" style="text-decoration:none; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo" />
   </a>
-  <a href="https://www.instagram.com/i_flal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/i_flal" target="_blank" style="text-decoration:none; margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/iflal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="40" alt="hackerrank logo"  />
+  <a href="https://www.hackerrank.com/profile/iflal" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="40" alt="hackerrank logo" />
   </a>
 </div>
 <br><br>
