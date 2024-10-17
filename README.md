@@ -1,44 +1,18 @@
-<!-- Add your name and profile picture -->
-<h1 align="center">Iflal Ismalebbe</h1>
 
-<p align="center">Undergraduate | ML Explorer | Tech Enthusiast</p>
+<h1 align="center">Hola 👋</h1>
 
-<p align="center">📍 Colombo, Sri Lanka</p>
-
-<p align="center">
-  📧 <a href="mailto:iflalm5@gmail.com">iflalm5@gmail.com</a> |
-  🔗 <a href="https://www.linkedin.com/in/iflalismalebbe">LinkedIn</a> |
-<!--   🔗 <a href="https://twitter.com/Iflal">Twitter</a> |
-  🔗 <a href="https://yourportfolio.com">Portfolio</a> -->
-</p>
-
----
 
 ## 🚀 <span style="color:#FF5733;">About Me</span>
 
-Pursuing a degree in Information Systems with a keen interest in AI and machine learning. Passionate about exploring cutting-edge technologies and excited to contribute to innovative projects. Always eager to connect, collaborate, and push the boundaries of tech.
+Data-centric thinker | AI-driven problem solver | Machine learning innovator
 ---
 
 
-<!-- Add more blog posts if needed -->
-
----
-
-## 📫 <span style="color:#FF5733;">Contact Me</span>
-
-📧 <a href="mailto:iflalm5@gmail.com">Email</a> |
-🔗 <a href="https://www.linkedin.com/in/iflalismalebbe">LinkedIn</a>
-
----
-
-<p align="center">Feel free to reach out if you're interested in collaborating on a project or just want to connect!</p>
-
-## 💫  <span style="color:#FF5733;">About Me: </span>
-Hi there! 👋 I'm Iflal Ismalebbe<br>I'm a passionate Software Developer and Machine Learning enthusiast with a focus on building impactful solutions through technology. I love diving into web development, working with frameworks like React.js and Node.js, while also exploring the world of AI/ML using Python, TensorFlow, and Docker. I enjoy collaborating on projects that push the boundaries of innovation, whether it’s creating intuitive UIs, developing scalable backend systems, or training machine learning models.<br><br>🔭 Currently working on: Web and mobile app development, ML models, and refining my technical skills.<br>🌱 Currently learning: Advanced AI/ML techniques, cloud infrastructure, and database management.<br>🤝 Looking to collaborate on: AI/ML projects, web applications, and open-source contributions.<br>⚡ Fun fact: I’ve worked on analyzing badminton smash shots and hate speech detection in Tamil!
----
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/profile.php?id=100009644041839) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_flal/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/iflalismalebbe) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@Iflal) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Iflal_mhd/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/23275534/iflal-ismalebbe) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/To_Iflal) 
+
+
 
 # 💻 Tech Stack:
 <div align="left">
@@ -135,26 +109,38 @@ Hi there! 👋 I'm Iflal Ismalebbe<br>I'm a passionate Software Developer and Ma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" />
 </div>
 
-# 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=iflal&theme=merko&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iflal&theme=merko&hide_border=true" alt="GitHub Streak" />
-  </div>
+
+
+#
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iflal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iflal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&order=2&custom_title=Languages" height="160" alt="languages graph"  />
 </div>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iflal&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iflal&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iflal&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+###
+## 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=iflal&theme=discord&column=-1&row=1&margin-w=15&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iflal&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+
+<h3 align="center">✍️ Random Dev Quote</h3>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" alt="Dev Quote" />
+</p>
+<br>
+
+<h3 align="center">🔝 Top Contributed Repo</h3>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=iflal&limit=5&theme=merko&combine_all_yearly_contributions=true" alt="Repo works" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iflal&icon=5&color=0)](https://visitcount.itsvg.in)
