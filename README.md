@@ -1,9 +1,14 @@
 
-<h1 align="center">Hola 👋</h1>
+# 🚀 <span style="color:#FF5733;">About Me</span>
+Hi there! 👋 this Iflal
 
+🔭 Currently working on: Web and mobile app development, ML models, and refining my technical skills.
 
-## 🚀 <span style="color:#FF5733;">About Me</span>
-#### Data-centric thinker | AI-driven problem solver | Machine learning innovator
+🌱 Currently learning: Advanced AI/ML techniques, cloud infrastructure, and database management.
+
+🤝 Looking to collaborate on: AI/ML projects, web applications, and open-source contributions.
+
+⚡ Fun fact: nothing to say for now😏!
 <br>
 
 # 
@@ -20,30 +25,30 @@
 </div>
 
 ## 🌐 Socials:
-<div align="center">
-  <a href="mailto:iflalm5@gmail.com" target="_blank" style="text-decoration:none; margin-right:10px;">
+<p align="center">
+  <a href="mailto:iflalm5@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/iflalismalebbe/" target="_blank" style="text-decoration:none; margin-right:10px;">
+  <a href="https://www.linkedin.com/in/iflalismalebbe/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://medium.com/@Iflal" target="_blank" style="text-decoration:none; margin-right:10px;">
+  <a href="https://medium.com/@Iflal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="70" height="40" alt="medium logo" />
   </a>
-  <a href="https://stackoverflow.com/users/23275534/iflal-ismalebbe" target="_blank" style="text-decoration:none; margin-right:10px;">
+  <a href="https://stackoverflow.com/users/23275534/iflal-ismalebbe" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="70" height="40" alt="stackoverflow logo" />
   </a>
-  <a href="https://facebook.com/profile.php?id=100009644041839" target="_blank" style="text-decoration:none; margin-right:10px;">
+  <a href="https://facebook.com/profile.php?id=100009644041839" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="70" height="40" alt="facebook logo" />
   </a>
-  <a href="https://www.instagram.com/i_flal" target="_blank" style="text-decoration:none; margin-right:10px;">
+  <a href="https://www.instagram.com/i_flal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="40" alt="instagram logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/iflal" target="_blank" style="text-decoration:none;">
+  <a href="https://www.hackerrank.com/profile/iflal" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="70" height="40" alt="hackerrank logo" />
   </a>
-</div>
-<br><br>
+</p>
+<br>
 
 # 💻 Tech Stack:
 <div align="left">
