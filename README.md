@@ -1,6 +1,6 @@
 
 # 🚀 <span style="color:#FF5733;">About Me</span>
-Hi there! 👋 this Iflal
+Hi there! 👋 this is Iflal Ismalebbe, who is { AI-driven problem solver | Machine learning innovator | Data-centric thinker }
 
 🔭 Currently working on: Web and mobile app development, ML models, and refining my technical skills.
 
