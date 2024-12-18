@@ -29,12 +29,6 @@ Hi there! 👋 this is Iflal Ismalebbe, who is { AI-driven problem solver | Mach
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iflal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&order=2&custom_title=Languages" height="160" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=iflal&locale=en&mode=weekly&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iflal&radius=16&theme=merko&area=true&order=5&custom_title=Visual%20of%20Contribution&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
 
 # 💻 Tech Stack:
 <div align="left">
