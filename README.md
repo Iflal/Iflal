@@ -2,11 +2,9 @@
 # 🚀 <span style="color:#FF5733;">About Me</span>
 Hi there! 👋 this is Iflal Ismalebbe, who is { AI-driven problem solver | Machine learning innovator | Data-centric thinker }
 
-🔭 Currently working on: Web and mobile app development, ML models, and refining my technical skills.
+🔭 Currently working on:  ML models, and refining my technical skills.
 
 🌱 Currently learning: Advanced AI/ML techniques, cloud infrastructure, and database management.
-
-🤝 Looking to collaborate on: AI/ML projects, web applications, and open-source contributions.
 
 ⚡ Fun fact: nothing to say for now😏!
 <br>
