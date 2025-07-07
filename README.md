@@ -30,6 +30,7 @@ Currently **charging up** for the next big breakthrough! 💫
 </div>
 
 <br>
+
 # 🌐 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/iflalismalebbe/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
