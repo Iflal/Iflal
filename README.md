@@ -85,6 +85,8 @@ Hi there! 👋 this is Iflal Ismalebbe, who is { AI-driven problem solver | Mach
 
 ###
 
+<img src="https://raw.githubusercontent.com/iflal/iflal/output/snake.svg" alt="Snake animation" />
+
 ###
 
 
