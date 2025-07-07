@@ -1,12 +1,35 @@
 
-# 🚀 <span style="color:#FF5733;">About Me</span>
-Hi there! 👋 this is Iflal Ismalebbe, who is { AI-driven problem solver | Machine learning innovator | Data-centric thinker }
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A7A459&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B;I'm+Iflal+Ismalebbe" alt="Typing SVG" />
+  </h1>
+  
+  <h2 style="color: #A7A459;">
+    { AI-driven problem solver | Machine learning innovator | Data-centric thinker }
+  </h2>
+</div>
 
-🔭 Currently working on:  ML models, and refining my technical skills.
+<br>
 
-🌱 Currently learning: Advanced AI/ML techniques, cloud infrastructure, and database management.
+<div align="center">
 
-⚡ Fun fact: nothing to say for now😏!
+## 🧙‍♂️ **Current Quest Status**
+
+🔮 **Brewing magical ML potions** in my digital laboratory  
+🎯 **Forging neural networks** that can see the future  
+🚀 **Architecting cloud realms** where data flows like rivers  
+
+## 🌟 **Special Abilities Unlocked**
+🤖 **AI Whisperer** - *Can make machines think and dream*  
+📊 **Data Alchemist** - *Transforms raw numbers into golden insights*  
+☁️ **Cloud Architect** - *Builds castles in the digital sky*  
+
+## ⚡ **Power Level**
+Currently **charging up** for the next big breakthrough! 💫  
+*Legend says I can debug code with my eyes closed...* 👁️‍🗨️
+
+</div>
+
 <br>
 
 # 🌐 Connect with me:
