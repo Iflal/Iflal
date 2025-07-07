@@ -124,9 +124,3 @@ Currently **charging up** for the next big breakthrough! 💫
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iflal/count.svg?" alt="Visitor Count" />
-  <h3 align="center">🎉 You are one of the amazing visitors! 🎉</h3>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
