@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A7A459&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B;I'm+Iflal+Ismalebbe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A7A459&center=true&vCenter=true&width=800&lines=Hi+there!+%F0%9F%91%8B;This+is+Iflal+Ismalebbe" alt="Typing SVG" />
   </h1>
   
   <h2 style="color: #A7A459;">
@@ -21,13 +21,6 @@
   <a href="https://www.instagram.com/i_flal" ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>
   <a href="https://www.hackerrank.com/profile/iflal" ><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo" /></a>
 </p>
-
-# 
-<div align="center">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=iflal&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iflal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&order=2&custom_title=Languages" height="160" alt="languages graph"  />
-</div>
 
 
 # 💻 Tech Stack:
