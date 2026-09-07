@@ -11,27 +11,6 @@
 
 <br>
 
-<div align="center">
-
-## 🧙‍♂️ **Current Quest Status**
-
-🔮 **Brewing magical ML potions** in my digital laboratory  
-🎯 **Forging neural networks** that can see the future  
-🚀 **Architecting cloud realms** where data flows like rivers  
-
-## 🌟 **Special Abilities Unlocked**
-🤖 **AI Whisperer** - *Can make machines think and dream*  
-📊 **Data Alchemist** - *Transforms raw numbers into golden insights*  
-☁️ **Cloud Architect** - *Builds castles in the digital sky*  
-
-## ⚡ **Power Level**
-Currently **charging up** for the next big breakthrough! 💫  
-*Legend says I can debug code with my eyes closed...* 👁️‍🗨️
-
-</div>
-
-<br>
-
 # 🌐 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/iflalismalebbe/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>
